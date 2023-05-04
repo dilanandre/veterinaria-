@@ -1,0 +1,24 @@
+main{
+    border: 1px solid red;
+    height: 550px;
+    width: 1000px;
+    margin: 1100px;
+    margin: auto;
+}
+
+header{
+    border: 1px solid blue;
+    height: 100px;
+}
+nav{
+    border: 1px solid yellowgreen;
+    height: 80px;
+}
+section{
+    border: 1px solid red;
+    height: 250px;
+}
+footer{
+    border: 1px solid brown;
+    height: 70px;
+}
