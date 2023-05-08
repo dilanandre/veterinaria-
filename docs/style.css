@@ -12,13 +12,33 @@ header{
 }
 nav{
     border: 1px solid yellowgreen;
-    height: 80px;
+    height: 50px;
 }
 section{
     border: 1px solid red;
-    height: 250px;
+    height: 425px;
 }
 footer{
-    border: 1px solid brown;
-    height: 70px;
+    border: 1px solid yellow;
+    height: 55px;
+}
+aside{
+    border: 1px solid rgb(236, 217, 10);
+    height: 380px;
+    width: 400px;
+    float: left;
+}
+article{
+    border: 1px solid red;
+    height: 120px;
+    width: 580px;
+    float: right;
+}
+ul li{
+     border: 1px solid;
+     display: inline-block;
+     width: 100px;
+     margin: rigiht;
+     padding: 0;
+     font: ´josefin sans´, sans-serif;
 }
